@@ -1,0 +1,49 @@
+Number of Floors: 3
+Floor 1: 10 spots
+Spot 1: 145-88-888
+Spot 2: 258-96-314
+Spot 3: 147-25-836
+Spot 4: 555-58-555
+Spot 5: 147-89-544
+Spot 6: 258-94-733
+Spot 7: 258-77-444
+Spot 8: 365-88-777
+Spot 9: 369-87-522
+Spot 10: 455-85-881
+Floor 2: 15 spots
+Spot 1: 555-55-555
+Spot 2: [empty]
+Spot 3: [empty]
+Spot 4: [empty]
+Spot 5: [empty]
+Spot 6: [empty]
+Spot 7: [empty]
+Spot 8: [empty]
+Spot 9: [empty]
+Spot 10: [empty]
+Spot 11: [empty]
+Spot 12: [empty]
+Spot 13: [empty]
+Spot 14: [empty]
+Spot 15: [empty]
+Floor 3: 20 spots
+Spot 1: [empty]
+Spot 2: [empty]
+Spot 3: [empty]
+Spot 4: [empty]
+Spot 5: [empty]
+Spot 6: [empty]
+Spot 7: [empty]
+Spot 8: [empty]
+Spot 9: [empty]
+Spot 10: [empty]
+Spot 11: [empty]
+Spot 12: [empty]
+Spot 13: [empty]
+Spot 14: [empty]
+Spot 15: [empty]
+Spot 16: [empty]
+Spot 17: [empty]
+Spot 18: [empty]
+Spot 19: [empty]
+Spot 20: [empty]
