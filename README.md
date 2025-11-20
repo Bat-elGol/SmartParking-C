@@ -1,4 +1,4 @@
-# 🚗 SmartPark - Smart Parking Management System
+# SmartPark - Smart Parking Management System
 > **This project was developed as part of the Advanced Programming (C) Workshop at HIT.**
 
 **SmartPark** is a console-based parking management application written in **C**.
@@ -6,7 +6,7 @@ It simulates a multi-floor parking facility, managing parking spots efficiently 
 
 ---
 
-## 📌 Features
+## Features
 
 * **Automated Spot Allocation:** Automatically finds the first available spot across multiple floors.
 * **Multi-Floor Management:** Supports dynamic configuration of floors and spots (Default: 3 Floors).
@@ -17,7 +17,7 @@ It simulates a multi-floor parking facility, managing parking spots efficiently 
 
 ---
 
-## 🛠 Technical Implementation
+## Technical Implementation
 
 This project demonstrates advanced **C programming** concepts:
 
@@ -30,7 +30,7 @@ This project demonstrates advanced **C programming** concepts:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 * `main.c` - Entry point. Handles the main menu loop and user input.
 * `SmartParking.c` - Core implementation of logic (Park, Release, Save, Load).
@@ -40,7 +40,7 @@ This project demonstrates advanced **C programming** concepts:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 * **Windows OS** (Recommended).
@@ -54,7 +54,7 @@ This project demonstrates advanced **C programming** concepts:
 
 ---
 
-## 🎮 Usage Example
+## Usage Example
 
 **Menu Options:**
 1.  **Find first available spot:** Checks for the nearest empty spot.
@@ -65,7 +65,7 @@ This project demonstrates advanced **C programming** concepts:
 
 ---
 
-## 📜 License
+## License
 This project is provided for educational and portfolio purposes only.
 
 
