@@ -1,5 +1,6 @@
 # 🚗 SmartPark - Smart Parking Management System
 > **This project was developed as part of the Advanced Programming (C) Workshop at HIT.**
+
 **SmartPark** is a console-based parking management application written in **C**.
 It simulates a multi-floor parking facility, managing parking spots efficiently using **Linked Lists** and dynamic memory allocation. The system supports real-time vehicle entry/exit and maintains data persistence using text-based file storage.
 
